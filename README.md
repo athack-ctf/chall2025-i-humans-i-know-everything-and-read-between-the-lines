@@ -1,4 +1,4 @@
-# Chall - Your Challenge Title
+# Chall - i, humans, I know everything and See Between the liNes
 
 > A brief description of the challenge
 
@@ -9,30 +9,25 @@
 
 ## Designer(s)
 
-- Ada Lovelace
-- Barbara Liskov
+- Oleander (Jeslyn)
 
 ## Description
 
-A high-level overview intended to clarify the concept and intuition behind the challenge, outlining its educational
-goals and the skills it aims to test in participants.
+You are working on a personal project when Roger comes running to you
 
-**IMPORTANT:** This description will **NOT** be shared with participants.
+"Hey! You need to look at this! It's urgent!! I don't know what this is??!! Help me, please!"
+
+You take a look at it. It's so strange...
+Jester is indeed...a jester, a riddler...
+
+
+**The file alone should be enough to let the participants know what the Flag is**
+
 
 ## Category(ies)
 
-- `pwn`
-- `re`
-- `web`
-- `stegano`
-- `env`
-- `crypto`
 - `osint`
-- `web3`
-- `ai`
-- `android`
-- `auto`
-- `misc`
+
 
 ---
 
