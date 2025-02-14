@@ -1,10 +1,8 @@
-The description of your challenge as seen by participants in CTFd. Try to make it feel within the theme
-of the event...
+You are working on a personal project when Roger comes running to you
 
----
-If your challenge is a multi-flag one (i.e., it consists of a sequence of sub-challenges each rewarded with
-its own flag), requiring a different description for each sub-challenge, then have your descriptions split as 
-done with this paragraph, and the next one.
+"Hey! You need to look at this! It's urgent!! I don't know what this is??!! Help me, please!"
 
+You take a look at it. It's so strange...
+Jester is indeed...a jester, a riddler...
 ---
 Obviously, for each sub-challenge, you should provide its flag value in [solution/FLAGS.md](solution/FLAGS.md).
